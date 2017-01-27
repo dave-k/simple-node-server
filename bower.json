@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-server",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "dave-k <davek1802@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
