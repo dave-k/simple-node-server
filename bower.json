@@ -1,6 +1,6 @@
 {
   "name": "simple-node-server",
-  "description": "Static node server that serves up an html file.",
+  "description": "",
   "main": "server.js",
   "authors": [
     "dave-k <davek1802@gmail.com>"
